@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on My_Portfolio<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://pravhatray.github.io/<br><br>💬 Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI<br><br>📫 How to reach me pravhatray@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KOI0wb1mmOv97cY4Tx_eKjy_DG8LBpBC/view?usp=sharing
+🔭 I’m currently working on My_Portfolio<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://pravhatray.github.io/<br><br>💬 Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI<br><br>📫 How to reach me pravhatray@gmail.com<br><br>📄 Know about my experiences <a href="https://github.com/pravhatray/pravhatray/blob/main/Pravhat_Ray_Resume.pdf">My_Resume</a>
 
 
 ## 🌐 Socials:
