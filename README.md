@@ -1,6 +1,6 @@
-<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 <h1 align="center">Hi 👋👏नमस्ते, I'm Pravhat ray</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
 # 💫 About Me:
 🔭 I’m currently working on My_Portfolio<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://pravhatray.github.io/<br><br>💬 Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI<br><br>📫 How to reach me pravhatray@gmail.com<br><br>📄 Know about my experiences <a href="https://github.com/pravhatray/pravhatray/blob/main/Pravhat_Ray_Resume.pdf">My_Resume</a>
