@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/pravhat-ray-842851236) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravhat-ray-842851236/) 
 [![Github](https://img.shields.io/badge/Github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/pravhatray) 
 
 # 💻 Tech Stack:
