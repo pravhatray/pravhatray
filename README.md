@@ -3,7 +3,7 @@
 <img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
 # 💫 About Me:
-🔭 I’m currently working on an Ecommerce Wwbsite<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://pravhatray.github.io/<br><br>💬 Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI<br><br>📫 How to reach me pravhatray@gmail.com<br><br>📄 Know about my experiences <a href="https://github.com/pravhatray/pravhatray/blob/main/Pravhat_Ray_Resume.pdf">My_Resume</a>
+🔭 I’m currently working on an Ecommerce Website<br><br>🌱 I’m currently learning MERN Stack Development<br><br>👨‍💻 All of my projects are available at https://pravhatray.github.io/<br><br>💬 Ask me about MongoDB,Express,React,NodeJS,JavaScript,ChakraUI<br><br>📫 How to reach me pravhatray@gmail.com<br><br>📄 Know about my experiences <a href="https://github.com/pravhatray/pravhatray/blob/main/Pravhat_Ray_Resume.pdf">My_Resume</a>
 
 
 ## 🌐 Socials:
